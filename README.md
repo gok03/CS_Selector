@@ -11,3 +11,7 @@ This module of CityScope helps to pick a region for starting the analysis.
 4. Select the region and submit with a name & Email.
 6. CS table json will be generated and pushed to CityIO server.
 
+## To Do
+1. Improve UI
+2. Extend the range of selection
+3. Integrate more data sources
