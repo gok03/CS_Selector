@@ -1,5 +1,5 @@
 # Cityscope Selector
-This module of CityScope helps to pick a region for starting the analysis.
+This module of CityScope helps to pick a region for starting the analysis.  
 "CityScope" is a concept for shared, interactive computation for urban planning.
 
 ![cs_selector.png](https://github.com/gok03/CS_Selector/blob/master/cs_selector.png)
